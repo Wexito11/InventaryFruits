@@ -1,0 +1,4 @@
+﻿  FruitsForm.cpp
+C:\Users\wexle\source\repos\informatica\2lab\FruitsInventary\FruitsForm.cpp(7,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  AddFruitForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  FruitsInventary.vcxproj -> C:\Users\wexle\source\repos\informatica\2lab\FruitsInventary\Debug\FruitsInventary.exe

@@ -1,0 +1,5 @@
+C:\Users\wexle\source\repos\informatica\2lab\FruitsInventary\Debug\FruitsInventary.vcxproj.AssemblyReference.cache
+C:\Users\wexle\source\repos\informatica\2lab\FruitsInventary\Debug\FruitsInventary.AddFruitForm.resources
+C:\Users\wexle\source\repos\informatica\2lab\FruitsInventary\Debug\FruitsInventary.FruitsForm.resources
+C:\Users\wexle\source\repos\informatica\2lab\FruitsInventary\Debug\FruitsInventary.vcxproj.GenerateResource.cache
+C:\Users\wexle\source\repos\informatica\2lab\FruitsInventary\Debug\FruitsInventary.exe
